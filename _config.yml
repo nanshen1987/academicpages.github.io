@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Nan Shen / 沈 楠"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Nan Shen"
 description              : &description "personal description"
 url                      : https://nanshen1987.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nan Shen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Nan Shen is currently a Ph.D. student at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing at Wuhan University. His research interests focus on precise GNSS data processing, software-defined receiver. software-defined receiver."
   location         : "WuHan University"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
