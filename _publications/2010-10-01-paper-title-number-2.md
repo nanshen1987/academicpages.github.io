@@ -10,6 +10,6 @@ citation: 'Shen, N., Chen, L., Wang, L. et al. Site-specific real-time GPS multi
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://nanshen1987.github.io/files/paper2.pdf)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
