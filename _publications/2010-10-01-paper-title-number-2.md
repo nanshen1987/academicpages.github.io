@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Site-specific real-time GPS multipath mitigation based on coordinate time series window matching"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'This paper is about the  GNSS multipath mitigation. '
+date: 2020-6-01
+venue: 'GPS Solut'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Shen, N., Chen, L., Wang, L. et al. Site-specific real-time GPS multipath mitigation based on coordinate time series window matching. GPS Solut 24, 82 (2020). https://doi.org/10.1007/s10291-020-00994-z.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
